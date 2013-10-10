@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = BackbonePaginator::VERSION
   spec.authors       = ["Shrikant Patnaik"]
   spec.email         = ["shrikant.patnaik@gmail.com"]
-  spec.description   = %q{A container for the Backbone.Paginator Library at https://github.com/backbone-paginator/backbone.paginator }
+  spec.description   = %q{A container for the Backbone.Paginator Library at http://backbone-paginator.github.io/backbone.paginator }
   spec.summary       = %q{Backbone.Paginator}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/shrikantpatnaik/backbone-paginator"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
