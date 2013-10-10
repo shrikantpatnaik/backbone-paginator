@@ -1,6 +1,7 @@
-# Backbone::Paginator
+# Backbone Paginator
 
-TODO: Write a gem description
+A container for the Backbone.Paginator Library at http://backbone-paginator.github.io/backbone.paginator/
+All credits go to the original authors
 
 ## Installation
 
@@ -8,17 +9,17 @@ Add this line to your application's Gemfile:
 
     gem 'backbone-paginator'
 
-And then execute:
-
-    $ bundle
-
 Or install it yourself as:
 
     $ gem install backbone-paginator
 
 ## Usage
 
-TODO: Write usage instructions here
+In your application.js
+
+//= require backbone.paginator
+
+Then use as stated in the Backbone.Paginator docs at http://backbone-paginator.github.io/backbone.paginator/
 
 ## Contributing
 
